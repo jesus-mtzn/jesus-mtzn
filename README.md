@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Jesús 👋
 
-<!--
-**jesus-mtzn/jesus-mtzn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 High school student from 🇲🇽 Mexico
 
-Here are some ideas to get you started:
+I'm passionate about building software. Currently learning modern web development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently Learning
+
+- HTML, CSS & JavaScript
+- React & Next.js
+- Tailwind CSS
+- Python
+
+## 📫 Connect
+
+Always happy to learn from other developers and collaborate on interesting projects!
